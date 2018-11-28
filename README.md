@@ -1,4 +1,10 @@
-# hello-world
+参考资料：
+
+[使用vue-cli@3初始化vue项目](https://www.jianshu.com/p/fab89c48268c)
+
+[vue-cli@3初始化的vue项目之webpack配置](https://www.jianshu.com/p/8b909183737e)
+
+
 
 ## Project setup
 ```
